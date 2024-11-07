@@ -1,0 +1,4 @@
+django
+Wand
+python-magic
+Pillow
